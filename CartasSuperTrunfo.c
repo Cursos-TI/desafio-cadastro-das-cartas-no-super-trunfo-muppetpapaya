@@ -10,7 +10,7 @@ int main() { // início e declaração das variáveis
     float areakm; // código para armazenar o valor da área em km²
 
     //coleta de dados do usuário
-    printf("Digite o código da carta: ");
+    printf("Digite o código da carta: "); // exibe a mensagem para que o usuário adicione o dado requerido
     scanf("%s", codigocarta); // lê o código da carta digitado pelo usuário
     printf("Digite o estado: ");
     scanf("%s", estado); // lê o estado informado
