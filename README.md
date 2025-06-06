@@ -1,5 +1,3 @@
----
-
 ## Funcionalidade
 
 Este programa em C permite ao usuário cadastrar duas cartas do Super Trunfo, inserindo informações como:
