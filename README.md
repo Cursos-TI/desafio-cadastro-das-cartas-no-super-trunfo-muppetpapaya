@@ -15,6 +15,11 @@ Após o cadastro, o programa exibe os dados organizados na tela de forma clara e
 
 Achei o primeiro desafio relativamente tranquilo, especialmente por já ter um conhecimento básico de C. O maior cuidado foi com os diferentes tipos de variáveis, para garantir que a saída ficasse organizada. Foi legal ver o código funcionando certinho no final!
 
+
+
+
+
+
 ---
 
 
