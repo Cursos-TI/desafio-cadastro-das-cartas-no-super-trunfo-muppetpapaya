@@ -1,13 +1,13 @@
 #include <stdio.h> //biblioteca padrão
 
 int main() { // início e declaração das variáveis
-    char codigocarta[5]; // código para armazenar o código da carta
-    char estado[20]; // código para armazenar o estado
-    char nomecidade[20]; // código para armazenar o nome da cidade
-    int populacao; // código para armazenar o número da população
-    int pontoturistico; // código para armazenar a quantidade de pontos turísticos
-    float pib; // código para armazenar o valor do pib
-    float areakm; // código para armazenar o valor da área em km²
+    char codigocarta[5]; // variável para armazenar o código da carta
+    char estado[20]; // variável para armazenar o estado
+    char nomecidade[20]; // variável para armazenar o nome da cidade
+    int populacao; // variável para armazenar o número da população
+    int pontoturistico; // variável para armazenar a quantidade de pontos turísticos
+    float pib; // variável para armazenar o valor do pib
+    float areakm; // variável para armazenar o valor da área em km²
 
     //coleta de dados do usuário
     printf("Digite o código da carta: "); // exibe a mensagem para que o usuário adicione o dado requerido
