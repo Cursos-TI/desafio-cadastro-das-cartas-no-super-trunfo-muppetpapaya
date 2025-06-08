@@ -1,3 +1,28 @@
+## Funcionalidade
+
+Este programa em C permite ao usuário cadastrar duas cartas do Super Trunfo, inserindo informações como:
+Estado
+Código da carta
+Nome da cidade
+População
+Área (em km²)
+PIB (em bilhões de reais)
+Número de pontos turísticos
+
+Após o cadastro, o programa exibe os dados organizados na tela de forma clara e separada para cada carta.
+
+## Impressão sobre o desafio
+
+Achei o primeiro desafio relativamente tranquilo, especialmente por já ter um conhecimento básico de C. O maior cuidado foi com os diferentes tipos de variáveis, para garantir que a saída ficasse organizada. Foi legal ver o código funcionando certinho no final!
+
+
+
+
+
+
+---
+
+
 # Desafio Super Trunfo - Países - Cadastro das Cartas
 
 Bem-vindo ao desafio "Super Trunfo - Países"! No jogo Super Trunfo, os jogadores comparam os atributos das cartas para determinar a mais forte. O tema deste Super Trunfo é "Países", onde você comparará os atributos das cidades.
