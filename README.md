@@ -9,7 +9,7 @@ População
 PIB (em bilhões de reais)
 Número de pontos turísticos
 
-Após o cadastro, o programa exibe os dados organizados na tela de forma clara e separada para cada carta.
+Após o cadastro, o programa exibe os dados organizados na tela de forma clara e separada para cada carta, além de comparar os atributos e escolher a carta vencedora.
 
 ## Impressão sobre o desafio
 
